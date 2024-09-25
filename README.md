@@ -13,10 +13,11 @@ The project involves:
 
 ## Datasets Used
 The following datasets were utilized in this project:
-1. **RAVDESS**: Ryerson Audio-Visual Database of Emotional Speech and Song.
-2. **TESS**: Toronto Emotional Speech Set.
-3. **SAVEE**: Surrey Audio-Visual Expressed Emotion Dataset.
-4. **CREMA-D**: Crowd-sourced Emotional Multimodal Actors Dataset.
+
+1. [Click here to view the RAVDESS Emotional Speech Audio dataset](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
+2. [Click here to view the TESS dataset](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)
+3. [Click here to view the SAVEE dataset](https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee)
+4. [Click here to view the CREMA-D Dataset](https://www.kaggle.com/datasets/ejlok1/cremad)
 
 Each dataset provides audio samples labeled with different emotions, allowing for comprehensive training and testing of the model.
 
